@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/git/LMAO_GIT/LMAO/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/git/LMAO_GIT/LMAO/Content/FirstPerson/Blueprints/BPC_Movement.uasset",
 				"D:/LMAO/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/LMAO/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/20/SUVKG2UH0XOTRUWJ7BK0JK.uasset",
 				"D:/LMAO/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/V6/4A9KSH5ZU4RBOVARC00AI3.uasset",
@@ -55,7 +57,6 @@
 				"D:/LMAO/Content/ThirdPerson/Blueprints/Enemies/SnusEnemy.uasset",
 				"D:/LMAO/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/6R/LMP6I87CKCQO6OK4J1AI9O.uasset",
 				"D:/LMAO/Content/ThirdPerson/Blueprints/Enemies/Enemy.uasset",
-				"D:/LMAO/Content/ThirdPerson/Blueprints/Enemies/AttackPlayer.uasset",
 				"D:/LMAO/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/T2/YOQMPED1JBJ8C24KISIZ4V.uasset"
 			]
 		}
